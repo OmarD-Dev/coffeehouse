@@ -1,0 +1,41 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: gold;
+  background-image: url(.//img/coffee.jpg);
+  background-size: cover;
+  color: gold;
+  font-size: 30px;
+  text-align: center;
+}
+a{
+  color: rgb(255, 255, 255);
+}
+img{
+  height: 500px;
+  width:100%
+}
+.jumbotron{
+  background-color: rgba(255, 255, 255, .1);
+}
+.imgSec, .imgSec2{
+  margin: 10%;
+}
+.imgSec section, .imgSec2 section{
+  float: left;
+  width: 25%;
+  color:  orangered;
+
+}
+img{
+  height: 200px;
+}
+.form {
+  clear: both;
+  display: flex;
+  flex-direction: column;
+  margin: 35% 35% 5% 35%;
+}
+h1{
+  color: orangered;
+}
